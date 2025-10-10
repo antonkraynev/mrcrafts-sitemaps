@@ -1,2 +1,12 @@
-<?xml version='1.0' encoding='utf-8'?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>https://cdn.mrcrafts.ru/sitemaps/sitemap_products.xml</loc><lastmod>2025-10-10T08:46:29Z</lastmod></sitemap><sitemap><loc>https://cdn.mrcrafts.ru/sitemaps/sitemap_categories.xml</loc><lastmod>2025-10-10T08:46:29Z</lastmod></sitemap><sitemap><loc>https://cdn.mrcrafts.ru/sitemaps/sitemap_pages.xml</loc><lastmod>2025-10-10T08:46:29Z</lastmod></sitemap></sitemapindex>
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://antonkraynev.github.io/mrcrafts-sitemaps/sitemaps/sitemap_categories.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://antonkraynev.github.io/mrcrafts-sitemaps/sitemaps/sitemap_products.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://antonkraynev.github.io/mrcrafts-sitemaps/sitemaps/sitemap_pages.xml</loc>
+  </sitemap>
+</sitemapindex>
