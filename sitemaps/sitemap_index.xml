@@ -9,4 +9,7 @@
   <sitemap>
     <loc>https://antonkraynev.github.io/mrcrafts-sitemaps/sitemaps/sitemap_pages.xml</loc>
   </sitemap>
+  <sitemap>
+  <loc>https://antonkraynev.github.io/mrcrafts-sitemaps/sitemaps/sitemap_custom.xml</loc>
+</sitemap>
 </sitemapindex>
