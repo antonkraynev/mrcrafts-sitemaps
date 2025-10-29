@@ -5,5 +5,63 @@
   <url><loc>https://mrcrafts.ru/collection/pryazhki/pryazhki-35-mm</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://mrcrafts.ru/collection/pryazhki/pryazhki-40-mm</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://mrcrafts.ru/collection/pryazhki/pryazhki-latun</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://https://mrcrafts.ru/collection/pryazhki/pryazhki-nerzhaveyuschaya-stal</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mrcrafts.ru/collection/pryazhki/pryazhki-nerzhaveyuschaya-stal</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <!-- Корневая категория «Молнии» -->
+<url>
+  <loc>https://mrcrafts.ru/collection/molnii</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+
+<!-- SEO-страницы фильтров по размерам -->
+<url>
+  <loc>https://mrcrafts.ru/collection/molnii/molnii-3</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://mrcrafts.ru/collection/molnii/molnii-5</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://mrcrafts.ru/collection/molnii/molnii-8</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<!-- Бренд / покрытия -->
+<url>
+  <loc>https://mrcrafts.ru/collection/molnii/molnii-ykk</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://mrcrafts.ru/collection/molnii/molnii-latun</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://mrcrafts.ru/collection/molnii/molnii-nikel</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://mrcrafts.ru/collection/molnii/molnii-antik</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<!-- Связанные разделы -->
+<url>
+  <loc>https://mrcrafts.ru/collection/molnii/begunki</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://mrcrafts.ru/collection/molnii/stopory</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
 </urlset>
